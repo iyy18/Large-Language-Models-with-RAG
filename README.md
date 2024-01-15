@@ -1,1 +1,1 @@
-# rag_llm
+# LLM exloration with RAG
